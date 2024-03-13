@@ -1,0 +1,15 @@
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\obj\Debug\net8.0\modul3_1302223083.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\obj\Debug\net8.0\modul3_1302223083.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\obj\Debug\net8.0\modul3_1302223083.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\obj\Debug\net8.0\modul3_1302223083.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\bin\Debug\net8.0\modul3_1302223083.exe
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\bin\Debug\net8.0\modul3_1302223083.deps.json
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\bin\Debug\net8.0\modul3_1302223083.runtimeconfig.json
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\bin\Debug\net8.0\modul3_1302223083.dll
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\bin\Debug\net8.0\modul3_1302223083.pdb
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\obj\Debug\net8.0\modul3_1302223083.sourcelink.json
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\obj\Debug\net8.0\modul3_1302223083.dll
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\obj\Debug\net8.0\refint\modul3_1302223083.dll
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\obj\Debug\net8.0\modul3_1302223083.pdb
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\obj\Debug\net8.0\modul3_1302223083.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\source\repos\modul4_1302223083\obj\Debug\net8.0\ref\modul3_1302223083.dll
